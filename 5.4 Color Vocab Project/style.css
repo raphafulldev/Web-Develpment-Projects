@@ -1,24 +1,37 @@
-.color-tittle {
-    font-weight: normal;
-}
-
 #red {
     color: red;
 }
+
 #blue {
     color: blue;
 }
+
 #orange {
     color: orange;
 }
+
 #green {
     color: green;
 }
+
 #yellow {
     color: yellow;
 }
 
+h1 {
+    font-weight: 900;
+}
+
+h2 {
+    font-weight: 900;
+}
+
+h2.color-title {
+    font-weight: normal;
+}
+
+
 img {
-    height: 200px;
     width: 200px;
+    height: 200px;
 }

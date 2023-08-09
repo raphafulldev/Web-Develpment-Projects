@@ -6,6 +6,7 @@ ol {
 
 p {
   color: red;
+  text-align: center;
 }
 
 .note {
@@ -16,10 +17,9 @@ p {
   color: green;
 }
 
-li[value="4"]{
+li[value='4'] {
   color: blue;
 }
-
-*  {
+ * {
   text-align: center;
-}
+ }
